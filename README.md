@@ -1,2 +1,2 @@
-# linear_regression
+# Linear Regression
 Example linear regression system with Theano
